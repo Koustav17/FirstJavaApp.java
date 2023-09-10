@@ -1,6 +1,6 @@
 ./first-java-programe.iml
-.idea
-./src/.idea
+.idea/
+./src/.idea/
 ./External Libraries
 # Project exclude paths
 /out/
